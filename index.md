@@ -2,14 +2,27 @@
 layout: default
 title: Student Blog
 ---
+## THIS IS MY BLOG YAY!
+
+## About Me
+![Alt text](https://i.postimg.cc/V6LrWfwd/Screenshot-20230817-150023-Samsung-Notes-1.jpg)!
+- ## My Name 
+My name is Yuyang Hsu and I go by Aaron.
+
+- ## Where I Am From
+I am from Taiwan and chinese is my first language.                                                                                      你好
+
+    I immigrate to the United State two and a half years ago.
+
+![Alt text](image.png) ![Alt text](image-3.png)
+- ## Favorite Sport
+My favorite sport is tennis, I am in the school tennis team last year.
+
+![Alt text](image-5.png)
+- ## My Favorite Food
+My favorite food is pizza, my favorite flavor is BBQ chicken.
+
+![Alt text](image-2.png)
 
 
-## Build you Home Page here 
-This is about your journey. Start now!!!
-
-## Overview of Hacks, Study and Tangibles
-Blogging in GitHub pages is a way to learn and code at the same time. 
-
-- Plans, Lists, [Scrum Boards](https://clickup.com/blog/scrum-board/) help you to track key events, show progress and record time.  Effort is a big part of your class grade.  Show plans and time spent!
-- [Hacks(Todo)](https://levelup.gitconnected.com/six-ultimate-daily-hacks-for-every-programmer-60f5f10feae) enable you to stay in focus with key requirements of the class.  Each Hack will produce Tangibles.
-- Tangibles or [Tangible Artifacts](https://en.wikipedia.org/wiki/Artifact_(software_development)) are things you accumulate as a learner and coder. 
+![Alt text](https://www.icegif.com/wp-content/uploads/2023/01/icegif-401.gif)
