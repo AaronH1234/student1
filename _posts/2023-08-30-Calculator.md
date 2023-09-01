@@ -4,7 +4,7 @@ comments: false
 layout: post
 title: Calculator MD
 description: Grab of the Calculator from APCSA repo.
-type: tangibles
+type: hacks
 courses: { compsci: {week: 2} }
 ---
 
